@@ -1,0 +1,9 @@
+langchain
+langchain-community
+pypdf
+chroma
+langchain-ollama
+jupyter
+ipykernel
+docarray
+pydantic==1.10.8
